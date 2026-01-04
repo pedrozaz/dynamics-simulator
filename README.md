@@ -11,3 +11,7 @@ A backend physics engine prototype designed to simulate longitudinal vehicle dyn
 3. **Build Tool:** Maven
 
 4. **Utils:** Lombok
+
+---
+
+The code was fully commented for better understanding of anyone who wants to try in their own machine.
